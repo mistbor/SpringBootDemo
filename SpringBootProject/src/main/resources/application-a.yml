@@ -1,0 +1,9 @@
+server:
+  context-path: /girl
+  port: 8080
+age: 9
+sex: girl
+content: "age: ${age}, sex: ${sex}"
+miaoying:
+  house: 200-a
+  car: mazd-a
